@@ -82,9 +82,3 @@ The system provides personalized movie recommendations based on user preferences
 - Incorporate deep learning techniques for more accurate recommendations.
 - Implement real-time user feedback to update recommendations dynamically.
 - Enhance the user interface for a more interactive experience.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
